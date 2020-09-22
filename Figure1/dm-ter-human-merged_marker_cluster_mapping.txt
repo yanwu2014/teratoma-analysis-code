@@ -1,0 +1,44 @@
+Marker	Cell Type
+SOX2	Radial Glia
+HES5	Radial Glia
+SOX2	CycProg
+HMGB2	CycProg
+DCX	Early Neurons
+MAP2	Early Neurons
+OTX2	Retinal Neurons
+NRL	Retinal Neurons
+OTX2	Retinal Epi
+MITF	Retinal Epi
+TTR	Retinal Epi
+MPZ	Schwann Cells
+MITF	Melanoblasts
+SOX10	Melanoblasts
+MLANA	Melanoblasts
+ELF3	Foregut Epi
+PAX9	Foregut Epi
+KRT4	Foregut Epi
+FOXJ1	Airway Epi
+CDHR3	Airway Epi
+ELF3	Mid/Hindgut Epi
+CDX2	Mid/Hindgut Epi
+CD74	Immune
+CD34	HSC
+HHEX	HSC
+GYPA	Erythrocyte
+THY1	MSC/Fib
+ITM2A	Adipogenic MSC/Fib
+SHOX2	Adipogenic MSC/Fib
+COL2A1	Chondrogenic MSC/Fib
+SOX9	Chondrogenic MSC/Fib
+HMGB2	Cycling MSC/Fib
+COL15A1	MyoFib
+MYOD1	Muscle Prog
+PAX7	Muscle Prog
+MYOD1	Cardiac/Skeletal Muscle
+TNNI1	Cardiac/Skeletal Muscle
+TNNT2	Cardiac/Skeletal Muscle
+FOXC1	Pericytes
+CYP1B1	Pericytes
+ACTA2	Smooth Muscle
+RGS5	Smooth Muscle
+WT1	Kidney Prog

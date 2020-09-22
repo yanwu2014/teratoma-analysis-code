@@ -1,0 +1,24 @@
+Cell_Type	Germ_Layer
+MSC/Fib	Mesoderm
+MyoFib	Mesoderm
+Cycling MSC/Fib	Mesoderm
+Retinal Epi	Ectoderm
+Adipogenic MSC/Fib	Mesoderm
+Early Neurons	Ectoderm
+Radial Glia	Ectoderm
+Mid/Hindgut Epi	Endoderm
+Muscle Prog	Mesoderm
+Pericytes	Mesoderm
+CycProg	Ectoderm
+Chondrogenic MSC/Fib	Mesoderm
+Foregut Epi	Endoderm
+Smooth Muscle	Mesoderm
+Cardiac/Skeletal Muscle	Mesoderm
+Immune	Mesoderm
+Retinal Neurons	Ectoderm
+Schwann Cells	Ectoderm
+Melanoblasts	Ectoderm
+Kidney Prog	Mesoderm
+HSC	Mesoderm
+Airway Epi	Endoderm
+Erythrocyte	Mesoderm
