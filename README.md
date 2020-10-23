@@ -2,7 +2,7 @@
 
 ## Processed Seurat objects and metadata
 
-The processed Seurat object for the H1 teratomas and the corresponding cell type annotations and metadata can be found on our [FTP server](shorturl.at/gwI08)
+The processed Seurat object for the H1 teratomas and the corresponding cell type annotations and metadata can be found on our [FTP server](ftp://genome-miner.ucsd.edu/teratoma_data/)
 
 
 ## Reproducing the core analysis starting from the processed counts matrices and genotype dictionaries
