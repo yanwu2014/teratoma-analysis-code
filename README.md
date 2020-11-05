@@ -1,4 +1,5 @@
 # teratoma-analysis-code
+Code to reproduce the analysis seen in McDonald, Wu et al. Cell, 2020 (https://doi.org/10.1016/j.cell.2020.10.018)
 
 ## Processed Seurat objects and metadata
 
