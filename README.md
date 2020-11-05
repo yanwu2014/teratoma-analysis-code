@@ -1,4 +1,4 @@
-# teratoma-analysis-code (under construction)
+# teratoma-analysis-code
 
 ## Processed Seurat objects and metadata
 
