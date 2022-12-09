@@ -9,6 +9,7 @@ The processed Seurat object for the H1 teratomas and the corresponding cell type
 * Seurat: https://satijalab.org/seurat/
 * SWNE: https://github.com/yanwu2014/swne
 * cellMapper: https://github.com/yanwu2014/cellMapper
+* perturbLM: https://github.com/yanwu2014/perturbLM
 
 ## Reproducing the core analysis starting from the processed counts matrices and genotype dictionaries
 
