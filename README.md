@@ -5,6 +5,10 @@ Code to reproduce the analysis seen in McDonald, Wu et al. Cell, 2020 (https://d
 
 The processed Seurat object for the H1 teratomas and the corresponding cell type annotations and metadata can be found on our [FTP server](https://bit.ly/34pFnWq)
 
+## Required libraries
+* Seurat: https://satijalab.org/seurat/
+* SWNE: https://github.com/yanwu2014/swne
+* cellMapper: https://github.com/yanwu2014/cellMapper
 
 ## Reproducing the core analysis starting from the processed counts matrices and genotype dictionaries
 
